@@ -1,8 +1,8 @@
 [
     {
-        "title": "Google",
-        "img": "./img/apps/google.jpg",
-        "location": "https://www.google.com"
+        "title": "Twitter",
+        "img": "./img/apps/twt.png",
+        "location": "https://twitter.com"
     },
     {
         "title": "Youtube",
